@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 import java.net.URL;
 import java.time.Duration;
 
-public class VkVideoPositiveTest {
+public class VkVideoTest {
     private AndroidDriver driver;
     private WebDriverWait wait;
 
